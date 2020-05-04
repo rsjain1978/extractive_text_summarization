@@ -1,0 +1,2 @@
+# extractive_text_summarization
+Python implementations for extractive text summarization techniques
